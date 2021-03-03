@@ -1,0 +1,6 @@
+[submodule "ScratchABit"]
+	path = ScratchABit
+	url = https://github.com/pfalcon/ScratchABit.git
+[submodule "xtensa-subjects"]
+	path = xtensa-subjects
+	url = https://github.com/pfalcon/xtensa-subjects.git
