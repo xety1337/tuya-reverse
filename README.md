@@ -1,9 +1,12 @@
 # tuya-reverse
-toolset for reverse engineering tuya firmware
+toolset for reverse engineering tuya firmware to maybe help with this issue:
+
+https://github.com/ct-Open-Source/tuya-convert/wiki/Collaboration-document-for-PSK-Identity-02
 
 I have no idea of reverse engineering but maybe this helps someone who knows what they're doing.
 
 image1M.bin from:
+
 https://github.com/ct-Open-Source/tuya-convert/files/4021684/BSD34--image1M.zip
 
 Working compilation of:
@@ -15,6 +18,7 @@ Working compilation of:
 ## Usage
 
 Clone the code using:
+
 	git clone --recursive https://github.com/xety1337/tuya-reverse.git
 
 run start.sh
