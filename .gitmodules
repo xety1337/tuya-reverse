@@ -4,3 +4,6 @@
 [submodule "xtensa-subjects"]
 	path = xtensa-subjects
 	url = https://github.com/pfalcon/xtensa-subjects.git
+[submodule "ida-xtensa2"]
+	path = ida-xtensa2
+	url = https://github.com/pfalcon/ida-xtensa2.git

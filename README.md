@@ -8,9 +8,9 @@ https://github.com/ct-Open-Source/tuya-convert/files/4021684/BSD34--image1M.zip
 
 Working compilation of:
 
-https://github.com/pfalcon/ScratchABit
-https://github.com/pfalcon/xtensa-subjects
-https://github.com/pfalcon/ida-xtensa2
+* https://github.com/pfalcon/ScratchABit
+* https://github.com/pfalcon/xtensa-subjects
+* https://github.com/pfalcon/ida-xtensa2
 
 ## Usage
 

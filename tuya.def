@@ -1,0 +1,4 @@
+cpu xtensa
+show bytes 4
+area start 0x0-0xFFFFF rwx
+load ./image1M.bin 0x0
